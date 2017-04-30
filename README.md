@@ -1,0 +1,2 @@
+# hyperapp-gollum
+A simple, Git-powered wiki with a sweet API and local frontend.
