@@ -6,5 +6,8 @@ if ! [ -d /wiki/.git ]; then
 fi
 
 exec "$@"
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 26c1bbb2a3062ae72d26b695b8598be5363847d6
